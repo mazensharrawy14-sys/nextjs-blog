@@ -13,7 +13,7 @@ These four initiatives support the long-term evolution of the IFC standard and d
 - **Track 1** is a formal ISO-led editorial update that is in progress.
 - **Tracks 2–4** are under discussion, in development, or being proposed, with the intent to become formal ISO initiatives in the future.
 
- 
+
 
 ## 1.  Updating the document detailing the collaboration between ISO TC 59/SC 13 and buildingSMART International
 
@@ -29,7 +29,7 @@ One of the more fundamental changes under discussion is the **modularisation** o
 
 This modular approach is not just a structural change — it offers the potential for more flexible adoption, clearer scope definition, and better maintenance over time. The request for modulization originally came from ISO but has wide industry support. It has been announced in the technical roadmap in 2020 as a core component for the future of IFC. The intention is to make the modularization effort publicly visible and open to input from the broader community.
 
- 
+
 
 ## 3.  Proposed Update to IFC 4.3 (ISO 16739-1)
 
@@ -37,7 +37,7 @@ IFC 4.3 is currently published as **Part 1 of ISO 16739**. A proposal is being p
 
 Different options are being investigated, each one with advantages and limitations. Among the options currently investigated are: an update of the existing standard (Part 1); a new part (Part 2) preserving the existing Part 1 as-is; or a combination of both – a new part coupled with an amendment to existing Part 1. The goal is to give the update sufficient status, while making sure the current IFC 4.3 is not being retracted as ISO standard.
 
- 
+
 
 ## 4. The Start of IFC 5 – Core Module as a new ISO Part
 
@@ -47,7 +47,7 @@ A New Work Item Proposal will need to be developed to initiate this effort, whic
 
 The IFC 5 core — and the modular system around it — is intended to be developed in a transparent way, with public visibility and opportunities for industry input. This is aligned with buildingSMART’s commitment to openness, and the recognition that the next generation of standards must be both inclusive and adaptable.
 
- 
+
 
 # Looking Ahead
 
@@ -61,7 +61,7 @@ Stay tuned as these proposals evolve — and consider how your organisation can 
 
 to be decided later; but will not be 1 because we want to retain 4.3 as the current part 1
 
- 
+
 
 **Published** on the 12th of June 2025  
 **Author:** Léon van Berlo
